@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Food made with quality ingredients to give you the best taste experience" 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Flavour combinations unlike you've ever tasted" 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
                 "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Fast and professional delivery service that prioritises customer satisfaction" 
             }
         ],
         "dishes": [
@@ -42,8 +42,8 @@
             {
                 "id": 4,
                 "image": "./dinner3.png",
-                "title": "STUFFED STRAWBERRY",
-                "category": "Dinner"
+                "title": "STUFFED STRAWBERRY CAKE",
+                "category": "Dinner" 
             },
             {
                 "id": 5,

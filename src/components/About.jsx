@@ -11,9 +11,10 @@ const About = () => {
                 <h1 className="heading">ABOUT US</h1>
                 <p>The only thing we take seriously is serving good food.</p>
             </div>
-            <p className='mid'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-            Placeat quidem voluptatem nostrum voluptates ipsum, magni quod non ducimus, distinctio 
-            vero dolores soluta officia itaque omnis minus et tempore quasi praesentium?
+            <p className='mid'>
+              It is our purpose as food lovers with a passion for providing good ambiance and experiences
+              to serve and bring joy to people's lives through our love language
+              ...GOOD FOOD!
             </p>
             <Link to={'/'}>Explore Menu{' '} <span><HiOutlineArrowRight/></span></Link>
         </div>
