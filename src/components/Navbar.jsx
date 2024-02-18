@@ -7,7 +7,7 @@ const Navbar = () => {
   const [show, setShow] = useState(false);
   return (
     <nav>
-      <div className="logo">JADA</div>
+      <div className="logo">GRUB BUCK</div>
       <div className={show ? "navLinks showmenu" : "navLinks"}>
         <div className="links">
           {
